@@ -1,0 +1,7 @@
+#LR_5.2
+$ cat .gitignore
+*txt
+*.a
+!lib.a
+/TODO
+biuld/
